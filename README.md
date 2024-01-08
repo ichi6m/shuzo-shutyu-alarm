@@ -54,7 +54,17 @@ $ python main.py
 ということです。
 sanpleを置いておきます。
 
-[sample.mp4]
+https://github.com/ichi6m/shuzo-shutyu-alarm/assets/119064378/42123d08-bb43-4c6e-9f2a-ef807bd7826f
+
+
+
+https://github.com/ichi6m/shuzo-shutyu-alarm/assets/119064378/8f8f338a-bf6a-4122-8934-6348d557b5d9
+
+
+
+https://github.com/ichi6m/shuzo-shutyu-alarm/assets/119064378/039e5f2b-9939-44cb-bb0d-b08d7367aedc
+
+
 
 3つ用意した動画のうちランダムで流れるようになっています。
 
