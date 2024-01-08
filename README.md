@@ -8,7 +8,11 @@
 
 名付けて**shuzo-shutyu-alram**を制作しました。
 # デモ
-[.mp4 or gif]
+
+
+https://github.com/ichi6m/shuzo-shutyu-alarm/assets/119064378/feab0942-0dc4-4919-a3a4-745d4780c3e2
+
+
 
 # 使い方
 1. このリポジトリをクローンする
