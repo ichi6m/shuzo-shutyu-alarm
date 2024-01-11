@@ -17,7 +17,7 @@ https://github.com/ichi6m/shuzo-shutyu-alarm/assets/119064378/feab0942-0dc4-4919
 # 使い方
 1. このリポジトリをクローンする
 ```
- $ git clone [url]
+ $ git clone https://github.com/ichi6m/shuzo-shutyu-alarm.git
 ```
 2. 必要なライブラリをインストールする
 ```
